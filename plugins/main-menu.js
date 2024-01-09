@@ -16,27 +16,16 @@ import {
  const defaultMenu = {
   before: `
   「 ${botname} 🎁XMD 」\n
-  *%ucpn*
-⍟────────────────⍟
-*REMEMBER THIS BOT IS FOR*
-*EDUCATIONAL PERPOSES*
-⍟────────────────⍟
-*©Salman Ahmand*
-⍟────────────────⍟
-*_Konnichiwa! Its XLICON-MD A_* 
+  *%ucpn
+  ⍟────────────────⍟
+*_Konnichiwa! Its ASH-MD A_* 
 *_Multi-Device Whatsapp BOT_*
-*_Recoded By Salman Ahmad And Abraham Dwamena_*
+*_Recoded By ASH_*
 ⍟────────────────⍟
                                     
- ▀▄▀ █░░ █ █▀▀ █▀█ █▄░█  
- █░█ █▄▄ █ █▄▄ █▄█ █░▀█  
-          
- █▀▄▀█ █▀▄
- █░▀░█ █▄▀
-
-      🔰〘 𝙄𝙉𝙁𝙊 〙🔰
+ 🔰〘 𝙄𝙉𝙁𝙊 〙🔰
 ╭──────────────▸
-➫ *_Founder_*: Salman Ahmad 
+➫ *_Founder_*: ASH 
 ➫ *_Bot Name_*: ${botname}
 ➫ *_Mode_*: %mode
 ➫ *_HOST_*: kali Linix
@@ -50,7 +39,7 @@ import {
 ╭──────────────▸
 ➫ *_Name_*: %name
 ➫ *_Gold_*: %credit
-➫ *_Role_*: XLICON-MD-TESTER
+➫ *_Role_*: ASH-MD-TESTER
 ➫ *_Level_*: %level [ %xp4levelup Xp For Levelup]
 ➫ *_Xp_*: %exp / %maxexp
 ➫ *_Total Xp_*: %totalexp
